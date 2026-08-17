@@ -1,4 +1,4 @@
-## Version 2.0 - 2024-01-15 (Size: 11.5 MB) [High]
+## Version 2.0.0 - 2024-01-15 (Size: 11.5 MB) [High]
 1. Major project rewrite
 2. Rss + Sitemaps
 3. Dark theme support
